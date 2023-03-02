@@ -2,7 +2,6 @@
 Welcome to Prince-API! Here you'll find all the documentation you need to get up and running with the Prince-API.
 
 ## List Of APIs
-
 1. Lyrics
 2. Google Translate
 3. Youtube
@@ -19,6 +18,5 @@ Welcome to Prince-API! Here you'll find all the documentation you need to get up
 14. ChatGPT Ask Anything  
 
 ## Note
-
 1. I'll add more features soon.
 2. If you're stuck somewhere, [Prince Support](https://t.me/PrincexSupport) are there to help.
