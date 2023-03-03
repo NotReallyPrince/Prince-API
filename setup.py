@@ -6,7 +6,7 @@ with open("README.md", encoding="utf8") as readme:
 setuptools.setup(
     name="prince-api",
     packages=setuptools.find_packages(),
-    version="0.0.4",
+    version="0.0.1",
     license="MIT",
     description="A Project Made To Centralize Various APIs 📖 No Authorization Needed :)",
     long_description=long_description,
