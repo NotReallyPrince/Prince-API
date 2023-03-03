@@ -9,4 +9,4 @@ def anime_logo(name):
 def write(text):
     API = f"https://api.princexd.tech/write?text={name}"
     req = requests.get(API).json()["url"]
-    return(req
+    return(req)
