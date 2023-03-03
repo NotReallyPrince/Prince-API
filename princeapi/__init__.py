@@ -1,4 +1,4 @@
-from .princeapi import *
+from princeapi import *
 
 __version__ = "0.1.1"
 
